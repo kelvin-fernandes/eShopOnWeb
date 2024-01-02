@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d31752a6-ac71-45bf-9db6-86e877f6633d
-  WEBAPP-NAME: az400-webapp-githubactions-cwb
+  WEBAPP-NAME: az400-webapp-githubactions-cwb-kelvin
 
 jobs:
   #Build, test and publish .net web project in repository
